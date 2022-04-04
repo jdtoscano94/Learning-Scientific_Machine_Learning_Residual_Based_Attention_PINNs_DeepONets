@@ -8,6 +8,8 @@ Right now, I am a bit busy. However, I will upload some youtube videos and more 
 
 If you have any questions or if I can help you in some way, please feel free to reach me at: juan_toscano@brown.edu.
 
+Note: Most of the examples in this repository were taken from the DeepXDE library (https://deepxde.readthedocs.io/en/latest/).
+
 # References
 [1] Maziar Raissi, Paris Perdikaris, and George Em Karniadakis. Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations. http://arxiv.org/pdf/1711.10561v1
 
