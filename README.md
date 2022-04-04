@@ -1,11 +1,10 @@
 # Learning-PINNs-in-Pytorch
 
-Hi, I’m Juan Diego Toscano!
-I am from Ecuador, and I will be starting my Engineering, Ph.D. - Fluids and Thermal Sciences program at Brown University next fall. I’m interested in Scientific Machine Learning, so I’m currently studyin PINNs and DeepOnets.
+Hi, I’m Juan Diego Toscano. Thanks for stopping by.
 
-This reposository is mainly to get involved in the huge world of physics informed machine learning. It is an step-by-step guide that covers the base knowledge to run a PINN in Pytorch. From approximating functions to solving PDEs.
+This repository will help you get involved in the huge world of physics-informed machine learning. In particular, it is a step-by-step guide that covers the base knowledge to run a PINN in Pytorch (from approximating functions to solving PDEs).
 
-I will keep uploading new examples in the future.
+Right now, I am a bit busy. However, I will upload some youtube videos and more complicated examples in the future.
 
 If you have any questions or if I can help you in some way, please feel free to reach me at: juan_toscano@brown.edu.
 
