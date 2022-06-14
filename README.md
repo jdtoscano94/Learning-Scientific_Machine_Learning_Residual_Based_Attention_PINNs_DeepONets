@@ -10,8 +10,11 @@ If you have any questions or if I can help you in some way, please feel free to 
 
 **Note:** 
 Most of the examples in this repository were taken from:
-DeepXDE library, https://deepxde.readthedocs.io/en/latest/.
+
+DeepXDE library, https://deepxde.readthedocs.io/en/latest/
+
 PINNs Repository 1:https://github.com/omniscientoctopus/Physics-Informed-Neural-Networks/tree/main/PyTorch/Burgers'%20Equation
+
 PINNs Repository 2:https://github.com/alexpapados/Physics-Informed-Deep-Learning-Solid-and-Fluid-Mechanics.
 
 # References
