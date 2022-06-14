@@ -11,11 +11,11 @@ If you have any questions or if I can help you in some way, please feel free to 
 **Note:** 
 Most of the examples in this repository were taken from:
 
-DeepXDE library, https://deepxde.readthedocs.io/en/latest/
+DeepXDE library: https://deepxde.readthedocs.io/en/latest/
 
-PINNs Repository 1:https://github.com/omniscientoctopus/Physics-Informed-Neural-Networks/tree/main/PyTorch/Burgers'%20Equation
+PINNs Repository 1: https://github.com/omniscientoctopus/Physics-Informed-Neural-Networks/tree/main/PyTorch/Burgers'%20Equation
 
-PINNs Repository 2:https://github.com/alexpapados/Physics-Informed-Deep-Learning-Solid-and-Fluid-Mechanics.
+PINNs Repository 2: https://github.com/alexpapados/Physics-Informed-Deep-Learning-Solid-and-Fluid-Mechanics.
 
 # References
 [1] Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2017). Physics informed deep learning (part i): Data-driven solutions of nonlinear partial differential equations. arXiv preprint arXiv:1711.10561. http://arxiv.org/pdf/1711.10561v1
