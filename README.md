@@ -2,7 +2,7 @@
 
 Hi, I’m Juan Diego Toscano. Thanks for stopping by.
 
-This repository will help you get involved in the physics-informed machine learning world. In particular, it is a step-by-step guide that covers some of the basic concepts required to run a Physics-informed Neural Network(PINN) in Pytorch (from approximating functions, solving PDEs, forward and Inverse problems). I  solved some of those problems on my Youtube channel, so please review it if you have time.
+This repository will help you get involved in the physics-informed machine learning world. In particular, it is a step-by-step guide that covers some of the basic concepts required to run a Physics-informed Neural Network(PINN) in Pytorch (from approximating functions, solving PDEs, forward and Inverse problems). I  solved some of those problems on my Youtube channel, so please review them if you have time.
 
 Youtube Channel: https://www.youtube.com/channel/UC6ryWzulr-Xom2Bym7O_CvQ
 
