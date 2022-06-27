@@ -19,6 +19,8 @@ PINNs Repository 1: https://github.com/omniscientoctopus/Physics-Informed-Neural
 
 PINNs Repository 2: https://github.com/alexpapados/Physics-Informed-Deep-Learning-Solid-and-Fluid-Mechanics.
 
+DeepOnets Respository 1: https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets
+
 # References
 [1] Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2017). Physics informed deep learning (part i): Data-driven solutions of nonlinear partial differential equations. arXiv preprint arXiv:1711.10561. http://arxiv.org/pdf/1711.10561v1
 
