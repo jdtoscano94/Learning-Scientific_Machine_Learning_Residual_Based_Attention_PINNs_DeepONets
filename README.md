@@ -1,4 +1,4 @@
-# Learning-PINNs-in-Pytorch
+# Learning-PINNs-in-Python
 
 Hi, I’m Juan Diego Toscano. Thanks for stopping by.
 
