@@ -5,10 +5,12 @@ Hi, I’m Juan Diego Toscano. Thanks for stopping by.
 This repository will help you get involved in the physics-informed machine learning world. In particular, it is a step-by-step guide that covers some of the basic concepts required to run a Physics-informed Neural Network(PINN) in Pytorch (from approximating functions, solving PDEs, forward and Inverse problems). You will also find some tutorials on Deeponets. 
 
 I solved some of the problems on this repository on my Youtube channel, so please review them if you have time.
-Youtube Channel: https://www.youtube.com/channel/UC6ryWzulr-Xom2Bym7O_CvQ
-PINNs Tutorial:https://youtu.be/AXXnSzmpyoI
-Inverse PINNs Tutorial: https://youtu.be/77jChHTcbv0
-PI-DeepONets Tutorial:https://youtu.be/YpNYVD9B_Js
+
+PINNs Youtube Tutorial:https://youtu.be/AXXnSzmpyoI
+
+Inverse PINNs Youtube Tutorial: https://youtu.be/77jChHTcbv0
+
+PI-DeepONets Youtube Tutorial:https://youtu.be/YpNYVD9B_Js
 
 Right now, I am a bit busy. However, in the future, I will upload more examples on DeepOnets, and other types of PINNs.
 
