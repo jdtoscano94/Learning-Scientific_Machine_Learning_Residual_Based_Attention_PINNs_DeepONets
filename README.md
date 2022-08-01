@@ -6,6 +6,9 @@ This repository will help you get involved in the physics-informed machine learn
 
 I solved some of the problems on this repository on my Youtube channel, so please review them if you have time.
 Youtube Channel: https://www.youtube.com/channel/UC6ryWzulr-Xom2Bym7O_CvQ
+PINNs Tutorial:https://youtu.be/AXXnSzmpyoI
+Inverse PINNs Tutorial: https://youtu.be/77jChHTcbv0
+PI-DeepONets Tutorial:https://youtu.be/YpNYVD9B_Js
 
 Right now, I am a bit busy. However, in the future, I will upload more examples on DeepOnets, and other types of PINNs.
 
