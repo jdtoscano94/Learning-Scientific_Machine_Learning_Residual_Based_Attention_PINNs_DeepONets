@@ -12,12 +12,12 @@ Inverse PINNs Youtube Tutorial: https://youtu.be/77jChHTcbv0
 
 PI-DeepONets Youtube Tutorial:https://youtu.be/YpNYVD9B_Js
 
-Right now, I am a bit busy. However, in the future, I will upload more examples on DeepOnets, and other types of PINNs.
+Right now, I am a bit busy. However, in the future, I will upload a few more examples on DeepOnets and PINNs.
 
 If you have any questions or if I can help you in some way, please feel free to reach me at: juan_toscano@brown.edu.
 
 **Note:** 
-Most of the examples in this repository were taken from:
+The examples in this repository were taken from:
 
 DeepXDE library: https://deepxde.readthedocs.io/en/latest/
 
