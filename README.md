@@ -1,4 +1,4 @@
-# Learning-PINNs-in-Python
+# Learning-PIML-in-Python
 
 Hi, I’m Juan Diego Toscano. Thanks for stopping by.
 
