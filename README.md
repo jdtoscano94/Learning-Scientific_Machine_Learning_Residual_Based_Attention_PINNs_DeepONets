@@ -12,8 +12,6 @@ Inverse PINNs Youtube Tutorial: https://youtu.be/77jChHTcbv0
 
 PI-DeepONets Youtube Tutorial:https://youtu.be/YpNYVD9B_Js
 
-In the future, I will upload a few more examples.
-
 If you have any questions or if I can help you in some way, please feel free to reach me at: juan_toscano@brown.edu.
 
 **Note:** 
