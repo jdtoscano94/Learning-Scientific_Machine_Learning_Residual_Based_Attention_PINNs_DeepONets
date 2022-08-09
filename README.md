@@ -12,7 +12,7 @@ Inverse PINNs Youtube Tutorial: https://youtu.be/77jChHTcbv0
 
 PI-DeepONets Youtube Tutorial:https://youtu.be/YpNYVD9B_Js
 
-Right now, I am a bit busy. However, in the future, I will upload a few more examples.
+In the future, I will upload a few more examples.
 
 If you have any questions or if I can help you in some way, please feel free to reach me at: juan_toscano@brown.edu.
 
