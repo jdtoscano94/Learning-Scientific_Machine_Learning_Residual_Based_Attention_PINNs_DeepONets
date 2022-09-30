@@ -12,7 +12,11 @@ Inverse PINNs Youtube Tutorial: https://youtu.be/77jChHTcbv0
 
 PI-DeepONets Youtube Tutorial:https://youtu.be/YpNYVD9B_Js
 
-If you have any questions or if I can help you in some way, please feel free to reach me at: juan_toscano@brown.edu.
+Also, if you are interested and PINNs and Machine Learning, please consider subscribing to the Crunch Youtube channel. They upload weekly seminars on Scientific Machine Learning.
+
+https://www.youtube.com/channel/UC2ZZB80udkRvWQ4N3a8DOKQ
+
+Finally, If you have any questions or if I can help you in some way, please feel free to reach me at: juan_toscano@brown.edu.
 
 **Note:** 
 The examples in this repository were taken from:
