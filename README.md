@@ -2,7 +2,7 @@
 
 Hi, I’m Juan Diego Toscano. Thanks for stopping by.
 
-This repository will help you to get involved in the physics-informed machine learning world. In particular, it includes several step-by-step guides on the basic concepts required to run and understand  Physics-informed Machine Learning models (from approximating functions, solving and discovering ODE/PDEs with PINNs,  and solving parametric PDEs with DeepONets). 
+This repository will help you to get involved in the physics-informed machine learning world. In particular, it includes several step-by-step guides on the basic concepts required to run and understand  Physics-informed Machine Learning models (from approximating functions, solving and discovering ODE/PDEs with PINNs,  to solving parametric PDEs with DeepONets). 
 
 I solved some of these problems in my Youtube channel, so please review them if you have time.
 
