@@ -27,7 +27,7 @@ PINNs Repository 1: https://github.com/omniscientoctopus/Physics-Informed-Neural
 
 PINNs Repository 2: https://github.com/alexpapados/Physics-Informed-Deep-Learning-Solid-and-Fluid-Mechanics.
 
-DeepOnets Respository 1: https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets
+DeepOnets Repository 1: https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets
 
 # References
 [1] Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2017). Physics informed deep learning (part i): Data-driven solutions of nonlinear partial differential equations. arXiv preprint arXiv:1711.10561. http://arxiv.org/pdf/1711.10561v1
@@ -40,7 +40,7 @@ DeepOnets Respository 1: https://github.com/PredictiveIntelligenceLab/Physics-in
 
 [5] Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2017). Physics Informed Deep Learning (part ii): Data-driven Discovery of Nonlinear Partial Differential Equations. arXiv preprint arXiv:1711.10566. https://arxiv.org/abs/1711.10566
 
-[6] Repository: PPhysics-Informed Deep Learning and its Application in Computational Solid and Fluid Mechanics.https://github.com/alexpapados/Physics-Informed-Deep-Learning-Solid-and-Fluid-Mechanics.
+[6] Repository: Physics-Informed Deep Learning and its Application in Computational Solid and Fluid Mechanics.https://github.com/alexpapados/Physics-Informed-Deep-Learning-Solid-and-Fluid-Mechanics.
 
 [7] Lu, L., Jin, P., & Karniadakis, G. E. (2019). Deeponet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators. arXiv preprint arXiv:1910.03193.
 
