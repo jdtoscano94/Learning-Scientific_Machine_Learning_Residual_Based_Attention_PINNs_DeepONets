@@ -4,7 +4,9 @@ Hi, I’m Juan Diego Toscano. Thanks for stopping by.
 
 This repository will help you to get involved in the physics-informed machine learning world. In particular, it includes several step-by-step guides on the basic concepts required to run and understand  Physics-informed Machine Learning models (from approximating functions, solving and discovering ODE/PDEs with PINNs,  to solving parametric PDEs with DeepONets). 
 
-I reviewed some of these problems in my Youtube channel, so please watch them if you have time.
+Also, for advanced users, you can find our latest research in PINNs to achieve state-of-the-art performance using residual-based attention (RBA).
+
+I reviewed some of these problems on my YouTube channel, so please watch them if you have time.
 
 PINNs Youtube Tutorial:https://youtu.be/AXXnSzmpyoI
 
