@@ -1,4 +1,4 @@
-# Learning-PIML-in-Python
+# Learning-PIML-in-Python-PINNs-DeepONets-RBA
 
 Hi, I’m Juan Diego Toscano. Thanks for stopping by.
 
