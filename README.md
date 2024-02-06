@@ -34,7 +34,7 @@ DeepOnets Repository 1: https://github.com/PredictiveIntelligenceLab/Physics-inf
 
 
 # References
-[1] Anagnostopoulos, S. J., Toscano, J. D., Stergiopulos, N., & Karniadakis, G. E. (2023). Residual-based attention and connection to information bottleneck theory in PINNs. arXiv preprint arXiv:2307.00379.
+[1] Anagnostopoulos, S. J., Toscano, J. D., Stergiopulos, N., & Karniadakis, G. E. (2024). Residual-based attention in physics-informed neural networks. Computer Methods in Applied Mechanics and Engineering, 421, 116805.
 
 [2] Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2017). Physics informed deep learning (part i): Data-driven solutions of nonlinear partial differential equations. arXiv preprint arXiv:1711.10561. http://arxiv.org/pdf/1711.10561v1
 
