@@ -30,6 +30,11 @@ PINNs Repository 2: https://github.com/alexpapados/Physics-Informed-Deep-Learnin
 
 DeepOnets Repository 1: https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets
 
+Also here is another implementation the RBA weights in PyTorch:
+
+RBA Repository: https://github.com/soanagno/rba-pinns
+
+
 
 # References
 [1] Anagnostopoulos, S. J., Toscano, J. D., Stergiopulos, N., & Karniadakis, G. E. (2024). Residual-based attention in physics-informed neural networks. Computer Methods in Applied Mechanics and Engineering, 421, 116805.
