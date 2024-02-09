@@ -20,9 +20,7 @@ https://www.youtube.com/channel/UC2ZZB80udkRvWQ4N3a8DOKQ
 
 
 **Note:** 
-The examples in this repository were taken from:
-
-RBA Repository: https://github.com/soanagno/rba-pinns
+The tutorials in this repository were taken from:
 
 DeepXDE library: https://deepxde.readthedocs.io/en/latest/
 
