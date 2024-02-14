@@ -30,7 +30,7 @@ PINNs Repository 2: https://github.com/alexpapados/Physics-Informed-Deep-Learnin
 
 DeepOnets Repository 1: https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets
 
-Also here is another implementation the RBA weights in PyTorch:
+Also here is our official implementation of RBA weights in PyTorch:
 
 RBA Repository: https://github.com/soanagno/rba-pinns
 
