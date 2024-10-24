@@ -2,7 +2,7 @@
 
 Hi, I’m Juan Diego Toscano. Thanks for stopping by.
 
-This repository will help you to get involved in the physics-informed machine learning world. In particular, it includes several step-by-step guides on the basic concepts required to run and understand  Physics-informed Machine Learning models (from approximating functions, solving and discovering ODE/PDEs with PINNs,  to solving parametric PDEs with DeepONets). 
+This repository will help you to get involved in the physics-informed machine learning world. Inside the Tutorials folders, you will find several step-by-step guides on the basic concepts required to run and understand  Physics-informed Machine Learning models (from approximating functions, solving and discovering ODE/PDEs with PINNs,  to solving parametric PDEs with DeepONets). 
 
 Also, for advanced users, you can find our latest research in PINNs to achieve state-of-the-art performance using residual-based attention (RBA).
 
@@ -20,9 +20,7 @@ https://www.youtube.com/channel/UC2ZZB80udkRvWQ4N3a8DOKQ
 
 
 **Note:** 
-The examples in this repository were taken from:
-
-RBA Repository: https://github.com/soanagno/rba-pinns
+The tutorials in this repository were taken from:
 
 DeepXDE library: https://deepxde.readthedocs.io/en/latest/
 
@@ -31,6 +29,11 @@ PINNs Repository 1: https://github.com/omniscientoctopus/Physics-Informed-Neural
 PINNs Repository 2: https://github.com/alexpapados/Physics-Informed-Deep-Learning-Solid-and-Fluid-Mechanics.
 
 DeepOnets Repository 1: https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets
+
+Also here is our official implementation of RBA weights in PyTorch:
+
+RBA Repository: https://github.com/soanagno/rba-pinns
+
 
 
 # References
